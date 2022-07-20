@@ -6,7 +6,7 @@
     <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=lbrjanssen&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
     <img align="right" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbrjanssen&layout=compact&langs_count=7&theme=codeSTACKr"/>
   <br>
-- 🔭 Hoje trabalho com front-end <br>
+- 🔭 Apaixonado pela área, porém afastado no momento! <br>
 - 🌱 Estudando JS e Tailwindcss <br>
 - 📫 Contate-me no email: lucasbrjn@gmail.com
 </div>
