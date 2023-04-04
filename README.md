@@ -7,7 +7,7 @@
     <img align="right" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbrjanssen&layout=compact&langs_count=7&theme=codeSTACKr"/>
   <br>
 - 🔭 Apaixonado pela área <br>
-- 🌱 Estudando JS e Tailwindcss <br>
+- 🌱 Estudante de JS e Tailwindcss <br>
 - 📫 Contate-me no email: lucasbrjn@gmail.com
 </div>
 <div style="display: inline_block"><br>
