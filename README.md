@@ -1,16 +1,45 @@
-## Hi there 👋
+<div align="center">
+  
+  <img alt="Janssen-pic" width="240" style="border-radius:50px;" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/f4c6c170689255.605ba29680cd5.gif">
+  
+  # Olá! 👋 Meu nome é Lucas Janssen
+  
+  ### Desenvolvedor Frontend apaixonado por criar experiências digitais incríveis
+  **Tenho objetivo em construir um plano de carreira sólido e ser um profissional FULLSTACK excepcional**
+  
+</div>
 
-<!--
-**LBRJanssen/LBRJanssen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔭 Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **Apaixonado pela área de desenvolvimento**
+- 🌱 **Estudante e faço Freelancers desde 2024**
+- 💻 **Focado em desenvolvimento Frontend moderno**
+- 🚀 **Buscando sempre aprender novas tecnologias**
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+<div align="center" style="display: inline_block">
+  <img align="center" alt="Janssen-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript">
+  <img align="center" alt="Janssen-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" title="TypeScript">
+  <img align="center" alt="Janssen-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React">
+  <img align="center" alt="Janssen-Next" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" title="Next.js">
+  <img align="center" alt="Janssen-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5">
+  <img align="center" alt="Janssen-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3">
+  <img align="center" alt="Janssen-Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git">
+</div>
+
+---
+
+## 📫 Contato
+
+<div align="center">
+  <a href="mailto:pdn.vac@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</div>
+
+---
