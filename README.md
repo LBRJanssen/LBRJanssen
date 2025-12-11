@@ -6,6 +6,14 @@
   
   ### Desenvolvedor Frontend apaixonado por criar experiências digitais incríveis
   **Tenho objetivo em construir um plano de carreira sólido e ser um profissional FULLSTACK excepcional**
+
+## 🚀 Projetos em Destaque
+
+<div align="center">
+  
+  ### 🎉 [Aonde Ta o Role](https://github.com/LBRJanssen/ondetaorole)
+  
+  Plataforma PWA para descobrir festas e eventos com geolocalização
   
 </div>
 
