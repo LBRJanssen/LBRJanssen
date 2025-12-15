@@ -12,9 +12,11 @@
 <div align="center">
   
   ### 🎉 [Aonde Ta o Role](https://github.com/LBRJanssen/ondetaorole)
-  ### 🍕 [Pizzarias Maias](https://github.com/LBRJanssen/pizzariaMaias)
-  
   Plataforma PWA para descobrir festas e eventos com geolocalização
+  
+  ### 🍕 [Pizzarias Maias](https://github.com/LBRJanssen/pizzariaMaias)
+  Site para lojas com sistema de compra e pagamento online
+  
   
 </div>
 
